@@ -1,0 +1,17 @@
+E:\SolutionDemo\demo\NunitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+E:\SolutionDemo\demo\NunitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+E:\SolutionDemo\demo\NunitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+E:\SolutionDemo\demo\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.deps.json
+E:\SolutionDemo\demo\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.runtimeconfig.json
+E:\SolutionDemo\demo\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.runtimeconfig.dev.json
+E:\SolutionDemo\demo\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.dll
+E:\SolutionDemo\demo\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.pdb
+E:\SolutionDemo\demo\NunitTest\bin\Debug\netcoreapp2.2\ServiceProject.dll
+E:\SolutionDemo\demo\NunitTest\bin\Debug\netcoreapp2.2\ServiceProject.pdb
+E:\SolutionDemo\demo\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.csprojAssemblyReference.cache
+E:\SolutionDemo\demo\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.csproj.CoreCompileInputs.cache
+E:\SolutionDemo\demo\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.AssemblyInfoInputs.cache
+E:\SolutionDemo\demo\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.AssemblyInfo.cs
+E:\SolutionDemo\demo\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.csproj.CopyComplete
+E:\SolutionDemo\demo\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.dll
+E:\SolutionDemo\demo\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.pdb
