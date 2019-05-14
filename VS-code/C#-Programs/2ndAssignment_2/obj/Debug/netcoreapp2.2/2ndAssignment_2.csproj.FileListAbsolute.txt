@@ -1,0 +1,11 @@
+E:\VS-Code\C#-Programs\2ndAssignment_2\bin\Debug\netcoreapp2.2\2ndAssignment_2.deps.json
+E:\VS-Code\C#-Programs\2ndAssignment_2\bin\Debug\netcoreapp2.2\2ndAssignment_2.runtimeconfig.json
+E:\VS-Code\C#-Programs\2ndAssignment_2\bin\Debug\netcoreapp2.2\2ndAssignment_2.runtimeconfig.dev.json
+E:\VS-Code\C#-Programs\2ndAssignment_2\bin\Debug\netcoreapp2.2\2ndAssignment_2.dll
+E:\VS-Code\C#-Programs\2ndAssignment_2\bin\Debug\netcoreapp2.2\2ndAssignment_2.pdb
+E:\VS-Code\C#-Programs\2ndAssignment_2\obj\Debug\netcoreapp2.2\2ndAssignment_2.csprojAssemblyReference.cache
+E:\VS-Code\C#-Programs\2ndAssignment_2\obj\Debug\netcoreapp2.2\2ndAssignment_2.csproj.CoreCompileInputs.cache
+E:\VS-Code\C#-Programs\2ndAssignment_2\obj\Debug\netcoreapp2.2\2ndAssignment_2.AssemblyInfoInputs.cache
+E:\VS-Code\C#-Programs\2ndAssignment_2\obj\Debug\netcoreapp2.2\2ndAssignment_2.AssemblyInfo.cs
+E:\VS-Code\C#-Programs\2ndAssignment_2\obj\Debug\netcoreapp2.2\2ndAssignment_2.dll
+E:\VS-Code\C#-Programs\2ndAssignment_2\obj\Debug\netcoreapp2.2\2ndAssignment_2.pdb

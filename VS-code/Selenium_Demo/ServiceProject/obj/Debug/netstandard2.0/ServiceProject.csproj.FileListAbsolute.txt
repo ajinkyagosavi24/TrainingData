@@ -1,0 +1,9 @@
+E:\VS-code\Selenium_Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csprojAssemblyReference.cache
+E:\VS-code\Selenium_Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csproj.CoreCompileInputs.cache
+E:\VS-code\Selenium_Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfoInputs.cache
+E:\VS-code\Selenium_Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfo.cs
+E:\VS-code\Selenium_Demo\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.deps.json
+E:\VS-code\Selenium_Demo\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.dll
+E:\VS-code\Selenium_Demo\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.pdb
+E:\VS-code\Selenium_Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.dll
+E:\VS-code\Selenium_Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.pdb

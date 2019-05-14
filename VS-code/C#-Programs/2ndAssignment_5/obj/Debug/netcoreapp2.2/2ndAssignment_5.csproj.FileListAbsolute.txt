@@ -1,0 +1,11 @@
+E:\VS-Code\C#-Programs\2ndAssignment_5\bin\Debug\netcoreapp2.2\2ndAssignment_5.deps.json
+E:\VS-Code\C#-Programs\2ndAssignment_5\bin\Debug\netcoreapp2.2\2ndAssignment_5.runtimeconfig.json
+E:\VS-Code\C#-Programs\2ndAssignment_5\bin\Debug\netcoreapp2.2\2ndAssignment_5.runtimeconfig.dev.json
+E:\VS-Code\C#-Programs\2ndAssignment_5\bin\Debug\netcoreapp2.2\2ndAssignment_5.dll
+E:\VS-Code\C#-Programs\2ndAssignment_5\bin\Debug\netcoreapp2.2\2ndAssignment_5.pdb
+E:\VS-Code\C#-Programs\2ndAssignment_5\obj\Debug\netcoreapp2.2\2ndAssignment_5.csprojAssemblyReference.cache
+E:\VS-Code\C#-Programs\2ndAssignment_5\obj\Debug\netcoreapp2.2\2ndAssignment_5.csproj.CoreCompileInputs.cache
+E:\VS-Code\C#-Programs\2ndAssignment_5\obj\Debug\netcoreapp2.2\2ndAssignment_5.AssemblyInfoInputs.cache
+E:\VS-Code\C#-Programs\2ndAssignment_5\obj\Debug\netcoreapp2.2\2ndAssignment_5.AssemblyInfo.cs
+E:\VS-Code\C#-Programs\2ndAssignment_5\obj\Debug\netcoreapp2.2\2ndAssignment_5.dll
+E:\VS-Code\C#-Programs\2ndAssignment_5\obj\Debug\netcoreapp2.2\2ndAssignment_5.pdb

@@ -1,0 +1,17 @@
+E:\Browser\Browser_Project\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+E:\Browser\Browser_Project\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+E:\Browser\Browser_Project\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+E:\Browser\Browser_Project\bin\Debug\netcoreapp2.2\Browser_Project.deps.json
+E:\Browser\Browser_Project\bin\Debug\netcoreapp2.2\Browser_Project.runtimeconfig.json
+E:\Browser\Browser_Project\bin\Debug\netcoreapp2.2\Browser_Project.runtimeconfig.dev.json
+E:\Browser\Browser_Project\bin\Debug\netcoreapp2.2\Browser_Project.dll
+E:\Browser\Browser_Project\bin\Debug\netcoreapp2.2\Browser_Project.pdb
+E:\Browser\Browser_Project\bin\Debug\netcoreapp2.2\Browser_Service_Programs.dll
+E:\Browser\Browser_Project\bin\Debug\netcoreapp2.2\Browser_Service_Programs.pdb
+E:\Browser\Browser_Project\obj\Debug\netcoreapp2.2\Browser_Project.csprojAssemblyReference.cache
+E:\Browser\Browser_Project\obj\Debug\netcoreapp2.2\Browser_Project.csproj.CoreCompileInputs.cache
+E:\Browser\Browser_Project\obj\Debug\netcoreapp2.2\Browser_Project.AssemblyInfoInputs.cache
+E:\Browser\Browser_Project\obj\Debug\netcoreapp2.2\Browser_Project.AssemblyInfo.cs
+E:\Browser\Browser_Project\obj\Debug\netcoreapp2.2\Browser_Project.csproj.CopyComplete
+E:\Browser\Browser_Project\obj\Debug\netcoreapp2.2\Browser_Project.dll
+E:\Browser\Browser_Project\obj\Debug\netcoreapp2.2\Browser_Project.pdb

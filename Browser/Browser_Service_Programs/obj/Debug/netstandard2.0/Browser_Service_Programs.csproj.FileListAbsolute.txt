@@ -1,0 +1,9 @@
+E:\Browser\Browser_Service_Programs\bin\Debug\netstandard2.0\Browser_Service_Programs.deps.json
+E:\Browser\Browser_Service_Programs\bin\Debug\netstandard2.0\Browser_Service_Programs.dll
+E:\Browser\Browser_Service_Programs\bin\Debug\netstandard2.0\Browser_Service_Programs.pdb
+E:\Browser\Browser_Service_Programs\obj\Debug\netstandard2.0\Browser_Service_Programs.csprojAssemblyReference.cache
+E:\Browser\Browser_Service_Programs\obj\Debug\netstandard2.0\Browser_Service_Programs.csproj.CoreCompileInputs.cache
+E:\Browser\Browser_Service_Programs\obj\Debug\netstandard2.0\Browser_Service_Programs.AssemblyInfoInputs.cache
+E:\Browser\Browser_Service_Programs\obj\Debug\netstandard2.0\Browser_Service_Programs.AssemblyInfo.cs
+E:\Browser\Browser_Service_Programs\obj\Debug\netstandard2.0\Browser_Service_Programs.dll
+E:\Browser\Browser_Service_Programs\obj\Debug\netstandard2.0\Browser_Service_Programs.pdb
