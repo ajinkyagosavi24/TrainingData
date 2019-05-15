@@ -1,0 +1,9 @@
+E:\Checkbox\Checkbox_Service_Program\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.deps.json
+E:\Checkbox\Checkbox_Service_Program\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.dll
+E:\Checkbox\Checkbox_Service_Program\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.pdb
+E:\Checkbox\Checkbox_Service_Program\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csprojAssemblyReference.cache
+E:\Checkbox\Checkbox_Service_Program\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csproj.CoreCompileInputs.cache
+E:\Checkbox\Checkbox_Service_Program\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfoInputs.cache
+E:\Checkbox\Checkbox_Service_Program\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfo.cs
+E:\Checkbox\Checkbox_Service_Program\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.dll
+E:\Checkbox\Checkbox_Service_Program\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.pdb

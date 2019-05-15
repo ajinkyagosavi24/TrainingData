@@ -1,0 +1,14 @@
+E:\Checkbox\Checkbox_Service_Program\NunitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+E:\Checkbox\Checkbox_Service_Program\NunitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+E:\Checkbox\Checkbox_Service_Program\NunitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+E:\Checkbox\Checkbox_Service_Program\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.deps.json
+E:\Checkbox\Checkbox_Service_Program\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.runtimeconfig.json
+E:\Checkbox\Checkbox_Service_Program\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.runtimeconfig.dev.json
+E:\Checkbox\Checkbox_Service_Program\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.dll
+E:\Checkbox\Checkbox_Service_Program\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.pdb
+E:\Checkbox\Checkbox_Service_Program\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.csprojAssemblyReference.cache
+E:\Checkbox\Checkbox_Service_Program\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.csproj.CoreCompileInputs.cache
+E:\Checkbox\Checkbox_Service_Program\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.AssemblyInfoInputs.cache
+E:\Checkbox\Checkbox_Service_Program\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.AssemblyInfo.cs
+E:\Checkbox\Checkbox_Service_Program\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.dll
+E:\Checkbox\Checkbox_Service_Program\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.pdb
