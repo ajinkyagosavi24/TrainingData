@@ -1,0 +1,9 @@
+E:\FinalAssignment\Demo\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.deps.json
+E:\FinalAssignment\Demo\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.dll
+E:\FinalAssignment\Demo\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.pdb
+E:\FinalAssignment\Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csprojAssemblyReference.cache
+E:\FinalAssignment\Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csproj.CoreCompileInputs.cache
+E:\FinalAssignment\Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfoInputs.cache
+E:\FinalAssignment\Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfo.cs
+E:\FinalAssignment\Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.dll
+E:\FinalAssignment\Demo\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.pdb

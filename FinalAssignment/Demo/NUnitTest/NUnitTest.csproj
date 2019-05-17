@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="nunit" Version="3.11.0"/>
+    <PackageReference Include="NUnit3TestAdapter" Version="3.11.0"/>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0"/>
+    <PackageReference Include="Selenium.Support" Version="3.141.0"/>
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0"/>
+    <PackageReference Include="Selenium.Chrome.WebDriver" Version="2.46.0"/>
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="2.46.0"/>
+    <PackageReference Include="Selenium.Firefox.WebDriver" Version="0.24.0"/>
+    <PackageReference Include="SpecFlow" Version="3.0.213"/>
+    <PackageReference Include="SpecflowClassLibrary" Version="1.0.0"/>
+    <PackageReference Include="SpecFlow.NUnit" Version="3.0.213"/>
+    <PackageReference Include="SpecRun.SpecFlow.1-9-0" Version="1.8.5"/>
+    <PackageReference Include="SpecRun.SpecFlow.1-8-1" Version="1.8.5"/>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ServiceProject\ServiceProject.csproj"/>
+  </ItemGroup>
+</Project>
