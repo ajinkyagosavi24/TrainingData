@@ -1,0 +1,28 @@
+//Display string in forward and reverse order by each character using loop and in-build function
+
+
+using System;
+
+public class Program
+{	
+ 	public static void Main()
+    {
+	  string myStr, rev;
+
+      myStr = "Ajinkya";
+      rev ="";
+
+      Console.WriteLine("String is {0}", myStr);
+
+      // find string length
+      int len;
+      len = myStr.Length - 1;
+
+      while (len >= 0) {
+         rev = rev + myStr[len];
+         len--;
+      }
+      Console.WriteLine("Reversed String is {0}", rev);
+     
+	}
+}	

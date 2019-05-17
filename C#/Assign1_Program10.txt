@@ -1,0 +1,14 @@
+//Remove spaces or any special character like (@,#,$,%,*) from string to empty string using loop and in-build function
+
+using System;
+
+public class Program
+{	
+ 	public static void Main()
+    {
+		var str = "@#%$Myame****";
+		char[] charsToTrim = {'@','#','$','%','*' }; 
+		Console.WriteLine("After"); 
+		Console.WriteLine(str.Trim(charsToTrim));
+	}
+}	
